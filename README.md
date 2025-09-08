@@ -9,6 +9,9 @@ This is a sample backend Rest API application.This project demonstrates where th
 - Maven Build Tool Download
 - Swagger UI
 
+# Swagger UI Link
+http://localhost:8080/swagger-ui
+
 # Database Access
 Hit this Datasource URL in a browser: http://localhost:8080/h2-console
 
