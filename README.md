@@ -35,6 +35,18 @@ Password :
   "authorId": 1
 }`
 
+# Sample JSON to add author
+`{
+  "name": "George Orwell",
+  "bio": "English novelist, essayist, and journalist."
+}`
+
+# Sample JSON for update author
+`{
+  "name": "Eric Arthur Blair",
+  "bio": "Known by pen name George Orwell; English novelist, essayist, and journalist."
+}`
+
 # Application Testing in Postman
 - Exported All endpoints from postman as JSON format located in the root directory of this application, simply take the file and import in your postman.
 
