@@ -1,5 +1,5 @@
 # RESTful Bookstore API 
-This is a backend Restful API application.This project demonstrates where the user can perform CRUD and checkout operations.
+This is a backend Restful API application.This project demonstrates where the user can perform CRUD.
 
 # Technologies
 - Java 1.8
