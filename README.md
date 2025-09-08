@@ -1,5 +1,6 @@
 # RESTful Bookstore API 
 This is a backend Restful API application.This project demonstrates where the user can perform CRUD.
+Developed by RISHIRAAM GOPINATH
 
 # Technologies
 - Java 1.8
@@ -10,13 +11,13 @@ This is a backend Restful API application.This project demonstrates where the us
 - Swagger UI
 
 # Swagger UI Link
-http://localhost:8080/swagger-ui
+URL: http://localhost:8080/swagger-ui
 
 # Database Access
-Hit this Datasource URL in a browser: http://localhost:8080/h2-console
+Datasource URL: http://localhost:8080/h2-console
 
 To connect data source use below credentials
-JDBC URL: jdbc:h2:mem:bookstoredb
+JDBC URL: `jdbc:h2:mem:bookstoredb`
 
 # Sample JSON to Add Book (POST /api/books)
 `{
