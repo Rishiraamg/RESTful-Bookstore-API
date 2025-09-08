@@ -1,0 +1,10 @@
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\BookstoreApplication.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\controller\AuthorController.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\controller\BookController.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\dto\BookRequest.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\exception\GlobalExceptionHandler.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\exception\ResourceNotFoundException.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\model\Author.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\model\Book.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\repository\AuthorRepository.java
+C:\Users\rishi\Desktop\bookstore-api\src\main\java\com\example\bookstore\repository\BookRepository.java
