@@ -15,3 +15,12 @@ To connect data source use below credentials
 JDBC URL : jdbc:h2:mem:testdb
 User Name : sa
 Password :
+
+# Sample JSON to add book
+
+# Sample JSON for update book API
+
+# Application Testing in Postman
+-Exported All endpoints from postman as JSON format located in the root directory of this application, simply take the file and import in your postman.
+
+# Sample Postman Screen Shot
