@@ -1,5 +1,5 @@
-# Online Bookstore API - Spring Boot
-This is a sample backend Rest API application.This project demonstrates where the user can perform CRUD and checkout operations.
+# RESTful Bookstore API 
+This is a backend Restful API application.This project demonstrates where the user can perform CRUD and checkout operations.
 
 # Technologies
 - Java 1.8
