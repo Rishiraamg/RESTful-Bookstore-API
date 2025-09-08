@@ -52,3 +52,18 @@ JDBC URL: jdbc:h2:mem:bookstoredb
 - Exported All endpoints from postman as JSON format located in the root directory of this application, simply take the file and import in your postman.
 
 # Sample Postman Screen Shot
+- Add Book
+
+- Update Book
+
+- Get All Books
+
+- Delete Book
+
+- Add Author
+
+- Update Author
+
+- Get All Author
+
+- Delete Author
