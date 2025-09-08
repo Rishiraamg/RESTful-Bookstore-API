@@ -22,6 +22,6 @@ Password :
 # Sample JSON for update book API
 
 # Application Testing in Postman
--Exported All endpoints from postman as JSON format located in the root directory of this application, simply take the file and import in your postman.
+- Exported All endpoints from postman as JSON format located in the root directory of this application, simply take the file and import in your postman.
 
 # Sample Postman Screen Shot
