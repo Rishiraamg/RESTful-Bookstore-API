@@ -13,9 +13,7 @@ This is a sample backend Rest API application.This project demonstrates where th
 Hit this Datasource URL in a browser: http://localhost:8080/h2-console
 
 To connect data source use below credentials
-JDBC URL : jdbc:h2:mem:testdb
-User Name : sa
-Password :
+JDBC URL: jdbc:h2:mem:bookstoredb
 
 # Sample JSON to Add Book (POST /api/books)
 `{
