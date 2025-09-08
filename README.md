@@ -17,7 +17,7 @@ JDBC URL : jdbc:h2:mem:testdb
 User Name : sa
 Password :
 
-# Sample JSON to add book
+# Sample JSON to Add Book (POST /api/books)
 `{
   "title": "Animal Farm",
   "isbn": "9780452284241",
@@ -26,7 +26,7 @@ Password :
   "authorId": 1
 }`
 
-# Sample JSON for update book
+# Sample JSON to Update Book (PUT /api/books/{id})
 `{
   "title": "Animal Farm (Updated Edition)",
   "isbn": "9780452284241",
@@ -35,13 +35,13 @@ Password :
   "authorId": 1
 }`
 
-# Sample JSON to add author
+# Sample JSON to Add Author (POST /api/authors)
 `{
   "name": "George Orwell",
   "bio": "English novelist, essayist, and journalist."
 }`
 
-# Sample JSON for update author
+# Sample JSON to Update Author (PUT /api/authors/{id})
 `{
   "name": "Eric Arthur Blair",
   "bio": "Known by pen name George Orwell; English novelist, essayist, and journalist."
