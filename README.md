@@ -18,8 +18,24 @@ User Name : sa
 Password :
 
 # Sample JSON to add book
+'{
+  "title": "Animal Farm",
+  "isbn": "9780452284241",
+  "publishedYear": 1945,
+  "price": 199.00,
+  "authorId": 1
+}
+'
 
-# Sample JSON for update book API
+# Sample JSON for update book
+'{
+  "title": "Animal Farm (Updated Edition)",
+  "isbn": "9780452284241",
+  "publishedYear": 1945,
+  "price": 249.00,
+  "authorId": 1
+}
+'
 
 # Application Testing in Postman
 - Exported All endpoints from postman as JSON format located in the root directory of this application, simply take the file and import in your postman.
