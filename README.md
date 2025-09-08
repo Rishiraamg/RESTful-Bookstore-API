@@ -2,12 +2,12 @@
 This is a sample backend Rest API application.This project demonstrates where the user can perform CRUD and checkout operations.
 
 # Technologies
--Java 1.8
--Spring
--Spring Boot
--H2 Database (in-memory)
--Maven Build Tool Download
--Swagger UI
+- Java 1.8
+- Spring
+- Spring Boot
+- H2 Database (in-memory)
+- Maven Build Tool Download
+- Swagger UI
 
 # Database Access
 Hit this Datasource URL in a browser: http://localhost:8080/h2-console
